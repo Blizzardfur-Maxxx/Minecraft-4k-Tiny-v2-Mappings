@@ -1,0 +1,11 @@
+tiny	2	0	intermediary	named
+c	M	M
+	f	F	xRot	xRot
+	m	()V	run	run
+	f	[Z	k	k
+	f	F	yRot	yRot
+	m	(Ljava/awt/Event;)Z	handleEvent	handleEvent
+		p	1	event	event
+	f	I	yo	yo
+	f	I	xo	xo
+	m	()V	start	start

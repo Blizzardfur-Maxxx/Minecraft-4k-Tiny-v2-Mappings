@@ -1,0 +1,7 @@
+tiny	2	0	intermediary	named
+c	M	M
+	m	()V	run	run
+	m	(Ljava/awt/Event;)Z	handleEvent	handleEvent
+		p	1		event
+	f	[I	M	M
+	m	()V	start	start
